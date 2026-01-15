@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Surekha+Berlin;Data+Analyst+%7C+Data+Scientist+%7C+AI+%2F+ML+Engineer;Turning+Data+into+Insights+%26+Impact;Analytics+%7C+BI+%7C+Machine+Learning" />
 </div>
 
-<!-- Banner -->
+<!-- Professional Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Data%20World&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Surekha%20Berlin&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20BI%20%26%20Analytics&descSize=22&descAlignY=70&descAlign=50" width="100%"/>
 </div>
 
 ---
