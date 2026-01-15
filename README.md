@@ -103,7 +103,7 @@ I specialize in:
 </td>
 <td align="center">
   <a href="https://www.kaggle.com/surekhaberlin" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/64/20BEFF/kaggle.png"/><br>
+   <img src="https://img.icons8.com/color/64/kaggle.png" title="Kaggle"/><br>
     <strong>Kaggle</strong><br>
     Check my data science projects
   </a>
