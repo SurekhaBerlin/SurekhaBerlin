@@ -131,15 +131,13 @@ An in-depth exploratory analysis covering three decades of airline data.
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Find Me Online
 
-| Platform | Link |
-|--------|------|
-| 📊 Tableau Public | https://public.tableau.com/app/profile/surekha.chathampally |
-| 🧠 Kaggle | https://www.kaggle.com/surekhaberlin |
-| 💼 GitHub | https://github.com/SurekhaBerlin |
+- 💼 **GitHub:** https://github.com/SurekhaBerlin  
+- 📊 **Tableau Public:** https://public.tableau.com/app/profile/surekha.chathampally  
+- 🧠 **Kaggle:** https://www.kaggle.com/surekhaberlin  
+- ✍️ **Medium:** https://medium.com/@surekhakc  
 
----
 
 ## 🎯 Career Focus
 
