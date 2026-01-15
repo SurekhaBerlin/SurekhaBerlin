@@ -74,21 +74,19 @@ I specialize in:
 👉 See repositories for detailed documentation and visuals.
 
 ---
-
 ## 🛠️ BI & Analytics Tools
 
 <div align="center">
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-blue?style=for-the-badge)](https://powerbi.microsoft.com/)  
-[![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge)](https://www.tableau.com/)  
-[![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-blue?style=for-the-badge)](https://www.ibm.com/products/cognos-analytics)  
-[![Qlik](https://img.shields.io/badge/Qlik-blue?style=for-the-badge)](https://www.qlik.com/)  
-[![Looker](https://img.shields.io/badge/Looker-blue?style=for-the-badge)](https://looker.com/)  
-[![Alteryx](https://img.shields.io/badge/Alteryx-blue?style=for-the-badge)](https://www.alteryx.com/)  
-[![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge)](https://www.w3schools.com/sql/)  
-[![Python](https://img.shields.io/badge/Python-green?style=for-the-badge)](https://www.python.org/)  
+[![Power BI](https://img.shields.io/badge/Power%20BI-blue?style=for-the-badge)](https://powerbi.microsoft.com/) 
+[![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge)](https://www.tableau.com/) 
+[![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-blue?style=for-the-badge)](https://www.ibm.com/products/cognos-analytics) 
+[![Qlik](https://img.shields.io/badge/Qlik-blue?style=for-the-badge)](https://www.qlik.com/) 
+[![Looker](https://img.shields.io/badge/Looker-blue?style=for-the-badge)](https://looker.com/) 
+[![Alteryx](https://img.shields.io/badge/Alteryx-blue?style=for-the-badge)](https://www.alteryx.com/) 
 
 </div>
+
 
 ---
 
