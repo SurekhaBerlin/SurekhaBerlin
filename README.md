@@ -66,10 +66,15 @@ With a **self-taught and project-driven background**, I have hands-on experience
 - **Python** (pandas, NumPy, SciPy)
 - **SQL** (joins, CTEs, window functions)
 
-### 📊 Visualization & BI Tools
-- **Power BI**
-- **Tableau (Public)**
-- Matplotlib, Seaborn, Plotly
+## 📊 Data Visualization & BI Tools
+
+- **Power BI** – Data modeling, DAX, interactive dashboards, KPI tracking  
+- **Tableau / Tableau Public** – Visual storytelling, exploratory dashboards  
+- **IBM Cognos Analytics** – Enterprise reporting, dashboards, and data exploration  
+- **Qlik Sense** – Associative data modeling, interactive analytics  
+- **Looker (Google Cloud)** – LookML modeling, business metrics, embedded analytics  
+- **Excel** – Advanced formulas, pivot tables, Power Query  
+- **Python Visualization** – Matplotlib, Seaborn, Plotly
 
 ### 🤖 Machine Learning & AI
 - scikit-learn
