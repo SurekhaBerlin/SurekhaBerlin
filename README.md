@@ -43,14 +43,17 @@ I specialize in:
   <table>
     <tr>
       <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/analytics.png"/>
         <h3>📊 Data Analytics</h3>
         <p>EDA, KPI tracking, trend analysis, SQL querying, business insights</p>
       </td>
       <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/combo-chart.png"/>
         <h3>📈 BI & Dashboards</h3>
         <p>Power BI, Tableau, IBM Cognos, Qlik, Looker dashboards</p>
       </td>
       <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
         <h3>🤖 Data Science & ML</h3>
         <p>Predictive modeling, feature engineering, ML pipelines</p>
       </td>
@@ -81,15 +84,6 @@ I specialize in:
 [![Qlik](https://img.shields.io/badge/Qlik-blue?style=for-the-badge)](https://www.qlik.com/)  
 [![Looker](https://img.shields.io/badge/Looker-blue?style=for-the-badge)](https://looker.com/)  
 [![Alteryx](https://img.shields.io/badge/Alteryx-blue?style=for-the-badge)](https://www.alteryx.com/)  
-
-</div>
-
----
-
-## 🧰 Programming & Data Tools
-
-<div align="center">
-
 [![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge)](https://www.w3schools.com/sql/)  
 [![Python](https://img.shields.io/badge/Python-green?style=for-the-badge)](https://www.python.org/)  
 
