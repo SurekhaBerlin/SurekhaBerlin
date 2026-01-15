@@ -126,18 +126,42 @@ I specialize in:
 
 <div align="center">
 
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/>
-<img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau"/>
-<img src="https://img.icons8.com/color/48/000000/ibm-cognos-analytics.png" title="IBM Cognos"/>
-<img src="https://img.icons8.com/color/48/000000/qlik.png" title="Qlik"/>
-<img src="https://img.icons8.com/color/48/000000/looker.png" title="Looker"/>
-<img src="https://img.icons8.com/color/48/000000/alteryx.png" title="Alteryx"/>
-<img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-
-<p>
-  Power BI • Tableau • IBM Cognos • Qlik • Looker • Alteryx • SQL • Python
-</p>
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.icons8.com/color/64/000000/power-bi.png" title="Power BI"/><br>
+  <strong>Power BI</strong>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/color/64/000000/tableau-software.png" title="Tableau"/><br>
+  <strong>Tableau</strong>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/color/64/000000/ibm-cognos-analytics.png" title="IBM Cognos"/><br>
+  <strong>IBM Cognos</strong>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/color/64/000000/qlik.png" title="Qlik"/><br>
+  <strong>Qlik</strong>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/color/64/000000/looker.png" title="Looker"/><br>
+  <strong>Looker</strong>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/color/64/000000/alteryx.png" title="Alteryx"/><br>
+  <strong>Alteryx</strong>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/color/64/000000/sql.png" title="SQL"/><br>
+  <strong>SQL</strong>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/color/64/000000/python.png" title="Python"/><br>
+  <strong>Python</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
