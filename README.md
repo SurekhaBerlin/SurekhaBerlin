@@ -121,20 +121,7 @@ I specialize in:
 
 </div>
 ---
-## 📊 GitHub Stats & Activity
 
-<div align="center">
-
-![Surekha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurekhaBerlin&show_icons=true&theme=radical) &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurekhaBerlin&layout=compact&theme=radical)
-
-<br><br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurekhaBerlin&theme=radical) &nbsp;
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SurekhaBerlin&theme=react-dark&area=true)
-
-</div>
----
 
 ## 💡 Philosophy
 
