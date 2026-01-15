@@ -1,171 +1,71 @@
-<!-- ======================================================
- GitHub Profile README | SurekhaBerlin
- Modern • Detailed • Professional
-====================================================== -->
+<!-- ============================
+   Surekha Berlin | GitHub Profile
+   Modern • Visual • Recruiter-Ready
+============================ -->
 
+<!-- Animated Typing Header -->
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Surekha+Berlin;Data+Analyst+%7C+Data+Scientist+%7C+AI+%2F+ML+Engineer;Turning+Data+into+Insights+%26+Impact;Analytics+%7C+BI+%7C+Machine+Learning" />
+</div>
 
-<h1>Hi 👋, I'm Surekha Berlin</h1>
-
-<p>
-  <strong>Data Analyst • Data Scientist • AI / ML Engineer</strong><br/>
-  Turning raw data into insights, intelligence, and impact 🚀
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/followers/SurekhaBerlin?style=social" />
-  <img src="https://img.shields.io/github/stars/SurekhaBerlin?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=SurekhaBerlin&style=flat-square&color=blue" />
-</p>
-
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Data%20World&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 ---
 
-## 👩‍💼 About Me
+## 🚀 About Me
 
-I am a **Data Analyst, Data Scientist, and AI/ML Engineer** with a strong passion for transforming complex datasets into **clear insights, actionable strategies, and data-driven decisions**.
+<div align="center">
 
-With a **self-taught and project-driven background**, I have hands-on experience working across the **entire data lifecycle** — from data cleaning and exploration to advanced analytics, machine learning, and dashboarding.
+![Role](https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Data%20Scientist-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-BI%20%7C%20Analytics%20%7C%20AI-purple?style=for-the-badge)
+![Mindset](https://img.shields.io/badge/Mindset-Data--Driven%20Problem%20Solver-green?style=for-the-badge)
 
-🔍 What I enjoy most:
-- Finding patterns hidden in messy data  
-- Building intuitive dashboards for decision-makers  
-- Applying statistical thinking to real-world problems  
-- Creating scalable, well-documented analytics solutions  
+</div>
 
-📍 Based in **Canada** | 🌍 Open to collaboration and learning
+I am a **Data Analyst, Data Scientist, and AI/ML Engineer** with strong experience across **data analysis, business intelligence, visualization, and predictive analytics**.
 
----
+I specialize in:
+- 📊 Transforming raw data into **clear, actionable insights**
+- 📈 Building **interactive dashboards** for business decision-making
+- 🤖 Applying **machine learning** to real-world problems
+- 🧠 Communicating data stories that drive impact
 
-## 🧠 Core Expertise
-
-### 📊 Data Analysis & Business Intelligence
-- Data cleaning, transformation, and validation  
-- Exploratory Data Analysis (EDA)  
-- KPI development & tracking  
-- Trend analysis & forecasting  
-- Data storytelling & insight communication  
-
-### 📈 Data Visualization
-- Interactive dashboards and reports  
-- Executive-level visual storytelling  
-- Performance monitoring & YoY comparisons  
-
-### 🤖 Data Science & Machine Learning
-- Supervised & unsupervised learning  
-- Feature engineering  
-- Model evaluation & optimization  
-- Predictive analytics  
+📍 Based in **Canada** | 🌍 Open to analytics, BI, and data science roles
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 What Drives Me
 
-### 💻 Programming & Query Languages
-- **Python** (pandas, NumPy, SciPy)
-- **SQL** (joins, CTEs, window functions)
+```python
+class SurekhaBerlin:
+    def __init__(self):
+        self.roles = [
+            "Data Analyst",
+            "Data Scientist",
+            "AI / ML Engineer"
+        ]
+        self.core_skills = [
+            "Data Analysis",
+            "Business Intelligence",
+            "Machine Learning",
+            "Data Visualization"
+        ]
+        self.tools = [
+            "Power BI", "Tableau", "IBM Cognos",
+            "Qlik", "Looker", "Alteryx",
+            "SQL", "Python"
+        ]
+        self.philosophy = "Clean data leads to confident decisions"
 
-## 📊 Data Visualization & BI Tools
+    def daily_workflow(self):
+        return [
+            "🔍 Explore & clean data",
+            "📊 Analyze trends & KPIs",
+            "📈 Visualize insights",
+            "🤖 Build predictive models",
+            "📝 Share insights clearly"
+        ]
 
-- **Power BI** – Data modeling, DAX, interactive dashboards, KPI tracking  
-- **Tableau / Tableau Public** – Visual storytelling, exploratory dashboards  
-- **IBM Cognos Analytics** – Enterprise reporting, dashboards, and data exploration  
-- **Qlik Sense** – Associative data modeling, interactive analytics  
-- **Looker (Google Cloud)** – LookML modeling, business metrics, embedded analytics  
-- **Excel** – Advanced formulas, pivot tables, Power Query  
-- **Python Visualization** – Matplotlib, Seaborn, Plotly
-
-### 🤖 Machine Learning & AI
-- scikit-learn
-- TensorFlow
-- PyTorch
-- XGBoost / LightGBM
-
-### 🗂 Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook / Google Colab
-- Kaggle
-- Excel (Advanced formulas, pivot tables)
-
----
-
-## 📁 Featured Projects
-
-### 🏥 Healthcare Analytics Dashboard
-📌 **Focus:** Patient trends, costs, length of stay, demographics  
-📊 **Tools:** Power BI, SQL, DAX  
-🔗 Repo: https://github.com/SurekhaBerlin/HealthcareAnalytics  
-
-A multi-page analytics dashboard designed to support hospital decision-making through actionable insights.
-
----
-
-### ✈️ US Airline Flight Routes & Fares (1993–2024)
-📌 **Focus:** Airline pricing trends & route analysis  
-📊 **Tools:** Python, pandas, visualization  
-🔗 Repo: https://github.com/SurekhaBerlin/US-Airline-Flight-Routes-and-Fares-1993-2024  
-
-An in-depth exploratory analysis covering three decades of airline data.
-
----
-
-### 🏔 Mount Everest Expedition Analytics
-📌 **Focus:** Risk factors, summit success, fatalities  
-📊 **Tools:** Power BI, DAX  
-📈 Analyzed historical expedition data to identify trends and safety insights.
-
----
-
-### 🎧 IT Support Ticket Analytics
-📌 **Focus:** SLA compliance, resolution time, recurring issues  
-📊 **Tools:** Power BI, data modeling  
-📈 Designed dashboards to optimize support workflows and improve performance.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurekhaBerlin&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurekhaBerlin&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔗 Find Me Online
-
-- 💼 **GitHub:** https://github.com/SurekhaBerlin  
-- 📊 **Tableau Public:** https://public.tableau.com/app/profile/surekha.chathampally  
-- 🧠 **Kaggle:** https://www.kaggle.com/surekhaberlin  
-- ✍️ **Medium:** https://medium.com/@surekhakc  
-
-
-## 🎯 Career Focus
-
-I am actively building projects and skills aligned with roles such as:
-- **Data Analyst**
-- **Business Intelligence Analyst**
-- **Data Scientist**
-- **AI / ML Engineer**
-
-I’m especially interested in domains like:
-- Healthcare Analytics  
-- Aviation & Transportation  
-- Energy & Utilities  
-- SaaS & Financial Analytics  
-
----
-
-## ✨ Fun Facts
-
-- 📊 I enjoy turning numbers into stories people understand  
-- 🧩 I love solving analytical challenges  
-- 🚀 I believe clean data leads to powerful decisions  
-
----
-
-⭐ *If you find my projects interesting, feel free to star a repo or connect with me!*  
