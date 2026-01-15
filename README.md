@@ -74,6 +74,8 @@ I specialize in:
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -82,35 +84,35 @@ I specialize in:
 <tr>
 <td align="center">
   <a href="https://github.com/SurekhaBerlin" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/64/000000/github.png"/><br>
+    <img src="https://img.icons8.com/ios-glyphs/64/000000/github.png" title="GitHub"/><br>
     <strong>GitHub</strong><br>
     Explore my repos & projects
   </a>
 </td>
 <td align="center">
   <a href="https://www.linkedin.com/in/surekhaberlin/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/64/0077B5/linkedin.png"/><br>
+    <img src="https://img.icons8.com/ios-filled/64/0077B5/linkedin.png" title="LinkedIn"/><br>
     <strong>LinkedIn</strong><br>
     Connect professionally
   </a>
 </td>
 <td align="center">
   <a href="https://medium.com/@surekhakc" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/64/000000/medium-monogram.png"/><br>
+    <img src="https://img.icons8.com/ios-filled/64/000000/medium-monogram.png" title="Medium"/><br>
     <strong>Medium</strong><br>
     Read my articles & case studies
   </a>
 </td>
 <td align="center">
   <a href="https://www.kaggle.com/surekhaberlin" target="_blank">
-   <img src="https://img.icons8.com/color/64/kaggle.png" title="Kaggle"/><br>
+    <img src="https://img.icons8.com/color/64/kaggle.png" title="Kaggle"/><br>
     <strong>Kaggle</strong><br>
-    Check my data science projects
+    Data science projects
   </a>
 </td>
 <td align="center">
   <a href="https://public.tableau.com/app/profile/surekha.chathampally" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/64/E97627/tableau-software.png"/><br>
+    <img src="https://img.icons8.com/ios-filled/64/E97627/tableau-software.png" title="Tableau Public"/><br>
     <strong>Tableau Public</strong><br>
     Explore dashboards & analytics
   </a>
@@ -170,12 +172,10 @@ I specialize in:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurekhaBerlin&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurekhaBerlin&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurekhaBerlin&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurekhaBerlin&layout=compact&theme=radical" />
 </div>
-
 ---
-
 ## 💡 Philosophy
 
 > **“Data is only powerful when it drives better decisions.”**
