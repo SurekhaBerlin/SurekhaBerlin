@@ -90,6 +90,25 @@ I specialize in:
 
 ---
 
+## 🧰 Programming & Data Skills
+
+<div align="center">
+
+[![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge)](https://www.w3schools.com/sql/) &nbsp;
+[![Python](https://img.shields.io/badge/Python-green?style=for-the-badge)](https://www.python.org/) &nbsp;
+[![R](https://img.shields.io/badge/R-green?style=for-the-badge)](https://www.r-project.org/) &nbsp;
+[![Pandas](https://img.shields.io/badge/Pandas-green?style=for-the-badge)](https://pandas.pydata.org/) &nbsp;
+[![NumPy](https://img.shields.io/badge/NumPy-green?style=for-the-badge)](https://numpy.org/) &nbsp;
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-green?style=for-the-badge)](https://matplotlib.org/) &nbsp;
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-green?style=for-the-badge)](https://scikit-learn.org/) &nbsp;
+[![DAX](https://img.shields.io/badge/DAX-green?style=for-the-badge)](https://docs.microsoft.com/en-us/dax/) &nbsp;
+[![C](https://img.shields.io/badge/C-green?style=for-the-badge)](https://en.cppreference.com/w/c) &nbsp;
+[![Java](https://img.shields.io/badge/Java-green?style=for-the-badge)](https://www.java.com/) &nbsp;
+[![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)](https://developer.android.com/) &nbsp;
+[![Embedded C](https://img.shields.io/badge/Embedded%20C-green?style=for-the-badge)](https://www.geeksforgeeks.org/embedded-c/)
+
+</div>
+---
 ## 🌐 Connect With Me
 
 <div align="center">
