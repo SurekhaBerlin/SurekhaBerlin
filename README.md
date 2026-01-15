@@ -25,7 +25,7 @@
 
 </div>
 
-I am a **Data Analyst, Data Scientist, and AI/ML Engineer** with strong experience across **data analysis, business intelligence, visualization, and predictive analytics**.
+I am a **Data Analyst, Data Scientist, and AI/ML Engineer** with experience across **data analysis, business intelligence, visualization, and predictive analytics**.
 
 I specialize in:
 - 📊 Transforming raw data into **clear, actionable insights**
@@ -37,35 +37,131 @@ I specialize in:
 
 ---
 
-## 💫 What Drives Me
+## 🎯 What I Do
 
-```python
-class SurekhaBerlin:
-    def __init__(self):
-        self.roles = [
-            "Data Analyst",
-            "Data Scientist",
-            "AI / ML Engineer"
-        ]
-        self.core_skills = [
-            "Data Analysis",
-            "Business Intelligence",
-            "Machine Learning",
-            "Data Visualization"
-        ]
-        self.tools = [
-            "Power BI", "Tableau", "IBM Cognos",
-            "Qlik", "Looker", "Alteryx",
-            "SQL", "Python"
-        ]
-        self.philosophy = "Clean data leads to confident decisions"
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/analytics.png"/>
+        <h3>📊 Data Analytics</h3>
+        <p>EDA, KPI tracking, trend analysis, SQL querying, business insights</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/combo-chart.png"/>
+        <h3>📈 BI & Dashboards</h3>
+        <p>Power BI, Tableau, IBM Cognos, Qlik, Looker dashboards</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
+        <h3>🤖 Data Science & ML</h3>
+        <p>Predictive modeling, feature engineering, ML pipelines</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-    def daily_workflow(self):
-        return [
-            "🔍 Explore & clean data",
-            "📊 Analyze trends & KPIs",
-            "📈 Visualize insights",
-            "🤖 Build predictive models",
-            "📝 Share insights clearly"
-        ]
+---
 
+## 📁 Featured Projects
+
+- 🏥 **Healthcare Analytics Dashboard** – Power BI, SQL, DAX  
+- ✈️ **US Airline Routes & Fare Analysis (1993–2024)** – Python, Visualization  
+- 🏔 **Mount Everest Expedition Analytics** – Risk & trend analysis  
+- 🎧 **IT Support Ticket Analytics** – SLA & performance dashboards  
+
+👉 See repositories for detailed documentation and visuals.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+### 📱 Platforms & Socials
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/SurekhaBerlin" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/64/000000/github.png"/><br>
+    <strong>GitHub</strong><br>
+    Explore my repos & projects
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.linkedin.com/in/surekhaberlin/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/64/0077B5/linkedin.png"/><br>
+    <strong>LinkedIn</strong><br>
+    Connect professionally
+  </a>
+</td>
+<td align="center">
+  <a href="https://medium.com/@surekhakc" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/64/000000/medium-monogram.png"/><br>
+    <strong>Medium</strong><br>
+    Read my articles & case studies
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.kaggle.com/surekhaberlin" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/64/20BEFF/kaggle.png"/><br>
+    <strong>Kaggle</strong><br>
+    Check my data science projects
+  </a>
+</td>
+<td align="center">
+  <a href="https://public.tableau.com/app/profile/surekha.chathampally" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/64/E97627/tableau-software.png"/><br>
+    <strong>Tableau Public</strong><br>
+    Explore dashboards & analytics
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ BI & Analytics Tools
+
+<div align="center">
+
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/>
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau"/>
+<img src="https://img.icons8.com/color/48/000000/ibm-cognos-analytics.png" title="IBM Cognos"/>
+<img src="https://img.icons8.com/color/48/000000/qlik.png" title="Qlik"/>
+<img src="https://img.icons8.com/color/48/000000/looker.png" title="Looker"/>
+<img src="https://img.icons8.com/color/48/000000/alteryx.png" title="Alteryx"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+
+<p>
+  Power BI • Tableau • IBM Cognos • Qlik • Looker • Alteryx • SQL • Python
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurekhaBerlin&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurekhaBerlin&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+## 💡 Philosophy
+
+> **“Data is only powerful when it drives better decisions.”**
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <br/>
+  ⭐ Star repositories if you find them useful!
+</div>
