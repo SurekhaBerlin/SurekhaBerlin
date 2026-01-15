@@ -105,7 +105,7 @@ I specialize in:
 [![C](https://img.shields.io/badge/C-green?style=for-the-badge)](https://en.cppreference.com/w/c) &nbsp;
 [![Java](https://img.shields.io/badge/Java-green?style=for-the-badge)](https://www.java.com/) &nbsp;
 [![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)](https://developer.android.com/) &nbsp;
-[![Embedded C](https://img.shields.io/badge/Embedded%20C-green?style=for-the-badge)](https://www.geeksforgeeks.org/embedded-c/)
+
 
 </div>
 ---
