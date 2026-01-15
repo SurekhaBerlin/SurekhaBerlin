@@ -94,13 +94,14 @@ I specialize in:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge)](https://github.com/SurekhaBerlin)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge)](https://www.linkedin.com/in/surekhaberlin/)  
-[![Medium](https://img.shields.io/badge/Medium-purple?style=for-the-badge)](https://medium.com/@surekhakc)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-purple?style=for-the-badge)](https://www.kaggle.com/surekhaberlin)  
-[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-purple?style=for-the-badge)](https://public.tableau.com/app/profile/surekha.chathampally)  
+[![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge)](https://github.com/SurekhaBerlin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge)](https://www.linkedin.com/in/surekhaberlin/) 
+[![Medium](https://img.shields.io/badge/Medium-purple?style=for-the-badge)](https://medium.com/@surekhakc) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-purple?style=for-the-badge)](https://www.kaggle.com/surekhaberlin) 
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-purple?style=for-the-badge)](https://public.tableau.com/app/profile/surekha.chathampally)
 
 </div>
+
 
 ---
 
