@@ -108,7 +108,10 @@ I specialize in:
 
 
 </div>
+
+
 ---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -120,8 +123,25 @@ I specialize in:
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-purple?style=for-the-badge)](https://public.tableau.com/app/profile/surekha.chathampally)
 
 </div>
+
+
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Surekha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurekhaBerlin&show_icons=true&theme=radical) &nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurekhaBerlin&layout=compact&theme=radical)
+
+<br><br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurekhaBerlin&theme=radical) &nbsp;
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SurekhaBerlin&theme=react-dark&area=true)
+
+</div>
+
+---
 
 ## 💡 Philosophy
 
