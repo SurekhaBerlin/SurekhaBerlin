@@ -19,19 +19,19 @@
 
 <div align="center">
 
-![Role](https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Data%20Scientist-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-BI%20%7C%20Analytics%20%7C%20AI-purple?style=for-the-badge)
-![Mindset](https://img.shields.io/badge/Mindset-Data--Driven%20Problem%20Solver-green?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Data%20Scientist-blue?style=for-the-badge)  
+![Focus](https://img.shields.io/badge/Focus-BI%20%7C%20Analytics%20%7C%20AI-purple?style=for-the-badge)  
+![Mindset](https://img.shields.io/badge/Mindset-Data--Driven%20Problem%20Solver-green?style=for-the-badge)  
 
 </div>
 
 I am a **Data Analyst, Data Scientist, and AI/ML Engineer** with experience across **data analysis, business intelligence, visualization, and predictive analytics**.
 
-I specialize in:
-- 📊 Transforming raw data into **clear, actionable insights**
-- 📈 Building **interactive dashboards** for business decision-making
-- 🤖 Applying **machine learning** to real-world problems
-- 🧠 Communicating data stories that drive impact
+I specialize in:  
+- 📊 Transforming raw data into **clear, actionable insights**  
+- 📈 Building **interactive dashboards** for business decision-making  
+- 🤖 Applying **machine learning** to real-world problems  
+- 🧠 Communicating data stories that drive impact  
 
 📍 Based in **Canada** | 🌍 Open to analytics, BI, and data science roles
 
@@ -43,17 +43,14 @@ I specialize in:
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/analytics.png"/>
         <h3>📊 Data Analytics</h3>
         <p>EDA, KPI tracking, trend analysis, SQL querying, business insights</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/combo-chart.png"/>
         <h3>📈 BI & Dashboards</h3>
         <p>Power BI, Tableau, IBM Cognos, Qlik, Looker dashboards</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
         <h3>🤖 Data Science & ML</h3>
         <p>Predictive modeling, feature engineering, ML pipelines</p>
       </td>
@@ -74,104 +71,42 @@ I specialize in:
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-  <a href="https://github.com/SurekhaBerlin" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/64/000000/github.png"/><br>
-    <strong>GitHub</strong><br>
-    Explore my repos & projects
-  </a>
-</td>
-<td align="center">
-  <a href="https://www.linkedin.com/in/surekhaberlin/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/64/0077B5/linkedin.png"/><br>
-    <strong>LinkedIn</strong><br>
-    Connect professionally
-  </a>
-</td>
-<td align="center">
-  <a href="https://medium.com/@surekhakc" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/64/000000/medium-monogram.png"/><br>
-    <strong>Medium</strong><br>
-    Read my articles & case studies
-  </a>
-</td>
-<td align="center">
-  <a href="https://www.kaggle.com/surekhaberlin" target="_blank">
-   <img src="https://img.icons8.com/color/64/kaggle.png" title="Kaggle"/><br>
-    <strong>Kaggle</strong><br>
-    Check my data science projects
-  </a>
-</td>
-<td align="center">
-  <a href="https://public.tableau.com/app/profile/surekha.chathampally" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/64/E97627/tableau-software.png"/><br>
-    <strong>Tableau Public</strong><br>
-    Explore dashboards & analytics
-  </a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🛠️ BI & Analytics Tools
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.icons8.com/color/64/000000/power-bi.png" title="Power BI"/><br>
-  <strong>Power BI</strong>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/64/000000/tableau-software.png" title="Tableau"/><br>
-  <strong>Tableau</strong>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/64/000000/ibm-cognos-analytics.png" title="IBM Cognos"/><br>
-  <strong>IBM Cognos</strong>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/64/000000/qlik.png" title="Qlik"/><br>
-  <strong>Qlik</strong>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/64/000000/looker.png" title="Looker"/><br>
-  <strong>Looker</strong>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/64/000000/alteryx.png" title="Alteryx"/><br>
-  <strong>Alteryx</strong>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/64/000000/sql.png" title="SQL"/><br>
-  <strong>SQL</strong>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/64/000000/python.png" title="Python"/><br>
-  <strong>Python</strong>
-</td>
-</tr>
-</table>
+[![Power BI](https://img.shields.io/badge/Power%20BI-blue?style=for-the-badge)](https://powerbi.microsoft.com/)  
+[![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge)](https://www.tableau.com/)  
+[![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-blue?style=for-the-badge)](https://www.ibm.com/products/cognos-analytics)  
+[![Qlik](https://img.shields.io/badge/Qlik-blue?style=for-the-badge)](https://www.qlik.com/)  
+[![Looker](https://img.shields.io/badge/Looker-blue?style=for-the-badge)](https://looker.com/)  
+[![Alteryx](https://img.shields.io/badge/Alteryx-blue?style=for-the-badge)](https://www.alteryx.com/)  
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧰 Programming & Data Tools
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurekhaBerlin&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurekhaBerlin&layout=compact&theme=radical"/>
+
+[![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge)](https://www.w3schools.com/sql/)  
+[![Python](https://img.shields.io/badge/Python-green?style=for-the-badge)](https://www.python.org/)  
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge)](https://github.com/SurekhaBerlin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge)](https://www.linkedin.com/in/surekhaberlin/)  
+[![Medium](https://img.shields.io/badge/Medium-purple?style=for-the-badge)](https://medium.com/@surekhakc)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-purple?style=for-the-badge)](https://www.kaggle.com/surekhaberlin)  
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-purple?style=for-the-badge)](https://public.tableau.com/app/profile/surekha.chathampally)  
+
 </div>
 
 ---
@@ -187,13 +122,3 @@ I specialize in:
   <br/>
   ⭐ Star repositories if you find them useful!
 </div>
-
-
-
-
-
-
-
-
-
-
