@@ -19,11 +19,12 @@
 
 <div align="center">
 
-![Role](https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Data%20Scientist-blue?style=for-the-badge)  
-![Focus](https://img.shields.io/badge/Focus-BI%20%7C%20Analytics%20%7C%20AI-purple?style=for-the-badge)  
-![Mindset](https://img.shields.io/badge/Mindset-Data--Driven%20Problem%20Solver-green?style=for-the-badge)  
+![Role](https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Data%20Scientist-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-BI%20%7C%20Analytics%20%7C%20AI-purple?style=for-the-badge)
+![Mindset](https://img.shields.io/badge/Mindset-Data--Driven%20Problem%20Solver-green?style=for-the-badge)
 
 </div>
+
 
 I am a **Data Analyst, Data Scientist, and AI/ML Engineer** with experience across **data analysis, business intelligence, visualization, and predictive analytics**.
 
