@@ -43,17 +43,17 @@ I specialize in:
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/analytics.png"/>
+        <img src="https://img.icons8.com/color/96/000000/analytics.png"/>
         <h3>📊 Data Analytics</h3>
         <p>EDA, KPI tracking, trend analysis, SQL querying, business insights</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/combo-chart.png"/>
+        <img src="https://img.icons8.com/color/96/000000/combo-chart.png"/>
         <h3>📈 BI & Dashboards</h3>
         <p>Power BI, Tableau, IBM Cognos, Qlik, Looker dashboards</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
         <h3>🤖 Data Science & ML</h3>
         <p>Predictive modeling, feature engineering, ML pipelines</p>
       </td>
@@ -77,8 +77,6 @@ I specialize in:
 ## 🌐 Connect With Me
 
 <div align="center">
-
-### 📱 Platforms & Socials
 
 <table>
 <tr>
@@ -148,8 +146,8 @@ I specialize in:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurekhaBerlin&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurekhaBerlin&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurekhaBerlin&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurekhaBerlin&layout=compact&theme=radical"/>
 </div>
 
 ---
